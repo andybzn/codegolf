@@ -1,0 +1,1 @@
+"string in which to replace vowels" |%{$_-replace'[aeiou]',''}
